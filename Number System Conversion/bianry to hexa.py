@@ -1,0 +1,2 @@
+a = 0xc
+print(a)
