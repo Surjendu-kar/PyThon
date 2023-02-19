@@ -22,3 +22,8 @@ print(thisdict.keys())
 
 #how to get values
 print(thisdict.values())
+
+# loop through a dictionary
+for thing in thisdict:
+  print(thing)
+  print(thisdict[thing])
